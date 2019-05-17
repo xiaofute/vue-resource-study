@@ -1,0 +1,19 @@
+{
+  "name": "vue-demo",
+  "version": "1.0.0",
+  "description": "debugger vue",
+  "main": "vue.js",
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.21",
+    "webpack": "^4.27.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2"
+  }
+}
